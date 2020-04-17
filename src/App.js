@@ -40,7 +40,7 @@ const App = () => {
   };
 
   return (
-    <div className="conatiner">
+    <div className="container">
       <h1>CURD App with hooks</h1>
       <div className="flex-row">
         <div className="flex-large">
